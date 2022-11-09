@@ -84,7 +84,7 @@ $ npm run dev
 ...
 ```
 
-## :memo: License ##
+## :memo: Licença ##
 
 
 Este projeto está sob a licença do MIT. Para mais detalhes veja em [LICENSE](LICENSE.md).
