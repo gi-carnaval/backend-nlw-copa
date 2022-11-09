@@ -34,7 +34,7 @@ Este projeto desta NLW Copa é um aplicativo para criar bolões dos Jogos da Cop
 ## :sparkles: Features ##
 
 :heavy_check_mark: Criação de Bolões\
-:heavy_check_mark: Criação de Palpites por BolãoCreate Guesses per Poll\
+:heavy_check_mark: Criação de Palpites por Bolão\
 :heavy_check_mark: Compartilhar Bolão com amigos!\
 :hammer_and_wrench: Mostrar Ranking por Bolão
 
