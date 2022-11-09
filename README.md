@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/gi-carnaval/frontend-nlw-copa" alt="NLW COPA" />
+  <img src="https://github.com/gi-carnaval/frontend-nlw-copa/blob/master/src/assets/logo.svg" alt="NLW COPA" />
 
   &#xa0;
 
