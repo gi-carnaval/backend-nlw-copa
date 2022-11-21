@@ -4,7 +4,7 @@ declare module '@fastify/jwt' {
   interface FastifyJWT {
     user: {
       sub: string;
-      name: strin;
+      name: string;
       avatarUrl: string;
     }
   }
