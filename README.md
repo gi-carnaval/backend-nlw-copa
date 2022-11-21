@@ -69,7 +69,7 @@ $ cd backend-nlw-copa
 $ npm i
 # Execute o projeto com npm
 $ npm run dev
-# O Server irá inicializar em http://localhost:3333
+# O Server irá inicializar em http://localhost:3000
 ```
 
 ## 🔗 Rotas ##
