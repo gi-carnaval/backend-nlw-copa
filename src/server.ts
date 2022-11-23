@@ -31,7 +31,7 @@ const start = async () => {
         await fastify.register(poolRoutes)
         await fastify.register(userRoutes)
 
-        await fastify.listen({ port: 3000 })
+        await fastify.listen({ port: 3030 })
     } catch (err) {
         fastify.log.error(err)
 
