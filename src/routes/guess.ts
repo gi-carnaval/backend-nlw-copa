@@ -66,7 +66,8 @@ export async function guessRoutes(fastify: FastifyInstance) {
         message: "Game not found."
       })
     }
-
+    console.log("game date: ", game.date)
+    console.log("Today date: ", new Date())
     if(game.date.getTime() < new Date().getTime()){
       return reply.status(400).send({
         message: "You cannot send guesses after the game date."
